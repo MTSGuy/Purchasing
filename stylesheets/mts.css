@@ -11,6 +11,16 @@
 	margin: 10px;
 	text-align: center;
 }
-.amazon #p {
+.amazon-title {
 	font-weight: bold;
+}
+
+amazon-date {
+	font-weight: bold;
+}
+
+.mtsphone {
+	font-weight: bold;
+	font-size:1.25em;
+	
 }

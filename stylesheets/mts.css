@@ -13,14 +13,16 @@
 }
 .amazonTitle {
 	font-weight: bold;
+	font-size:0.5em;
 }
 
 .amazonDate {
 	font-style: italic;
+	font-size:0.75em;
 }
 
 .mtsphone {
 	font-weight: bold;
-	font-size:1.25em;
+	font-size:1.20em;
 	
 }
